@@ -2,39 +2,13 @@
 
 ## Week 1 – Requirement Analysis
 
-### Project Overview
+Analyzed the business requirements of the E-Commerce Order Management Database System. Identified stakeholders, functional and non-functional requirements, project scope, and prepared the Software Requirement Specification (SRS).
 
-This project focuses on analyzing the business requirements of an **E-Commerce Order Management Database System**. It includes requirement analysis, stakeholder identification, functional and non-functional requirements, project scope, assumptions, constraints, and a Software Requirement Specification (SRS).
 
-### Objectives
+## Week 2 – Entity and Relationship Analysis
 
-* Analyze the business scenario.
-* Identify stakeholders and business processes.
-* Define functional and non-functional requirements.
-* Prepare the Software Requirement Specification (SRS).
+Identified system entities, attributes, primary keys, foreign keys, constraints, relationships, and cardinality. Prepared the Entity and Relationship Analysis Report for database design.
 
-### Core Entities
+## Author
 
-* Customer
-* Category
-* Product
-* Supplier
-* Order
-* Order Details
-* Payment
-* Shipment
-* Review
-
-### Folder Structure
-
-```text
-Week1/
-├── Requirement_Analysis_Report.pdf
-├── Business_Requirement_Document.pdf
-├── SRS_Document.pdf
-└── README.md
-```
-
-### Author
-
-**Brajesh Sheguware**
+Brajesh Sheguware
